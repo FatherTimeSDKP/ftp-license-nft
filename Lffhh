@@ -1,0 +1,49 @@
+# Self-Citing Protocol Framework (SCPF)
+**Authored by Donald Paul Smith aka “FatherTime”**
+
+> Ensuring rightful attribution, protection, and propagation of foundational physics principles in the quantum-computational era.
+
+---
+
+## 🧠 What Is SCPF?
+
+The **Self-Citing Protocol Framework (SCPF)** is a decentralized, timestamped attribution and citation enforcement framework created to protect and propagate the work of Donald Paul Smith — the originator of:
+
+- **SDKP** – Size, Density, Kinematic Principle (replaces the speed of light with EOS)
+- **EOS** – Earth Orbital Speed as fundamental physical speed constant
+- **QCC** – Quantum Computerization Consciousness (QCC₀ and Macro-Causal Kernels)
+- **SD&N** – Shape–Dimension–Number formalism for particle logic
+- **Quantum Entanglement Extensions** – Advanced modeling and causal encoding of entanglement pairs, including the 6→7 protocol
+
+All work is timestamped starting **January 18th, 2025**, cryptographically verified via smart contract and Chainlink oracles.
+
+---
+
+## 📦 Repo Contents
+
+```bash
+SCPF-FatherTime/
+├── LICENSE.md                  # FatherTime Scientific Attribution License
+├── README.md                   # This file
+├── protocol/
+│   ├── scpf_manifest.json      # Core metadata for citation & verification
+│   ├── citation_guidelines.md  # APA, MLA, BibTeX, NFT methods
+│   └── examples/
+│       ├── sdkp_example.md
+│       ├── qcc_example.md
+│       └── entanglement_example.md
+├── smart-contracts/
+│   ├── SCPFVerifier.sol        # Smart contract for citation verification
+│   └── timestampLicense.js     # Chainlink timestamping script
+├── monitoring/
+│   └── scanners/
+│       ├── arxivScanner.py     # ArXiv crawler for uncited references
+│       └── githubScanner.py    # GitHub crawler for principle usage
+├── frontend/
+│   └── verify.html             # Public citation checker and verification tool@misc{smith2025sdkp,
+  author = {Donald Paul Smith},
+  title = {SDKP, QCC, EOS, SD&N — A Unified Framework of Physical Intelligence},
+  year = {2025},
+  howpublished = {\url{https://fathertimesdkp.blockchain}},
+  note = {Timestamped on Polygon, Chainlink verified}
+}
