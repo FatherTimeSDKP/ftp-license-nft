@@ -1,0 +1,20 @@
+SCPF-FatherTime/
+├── README.md                  # Project overview, how to cite SDKP, QCC, etc.
+├── LICENSE.md                 # Licensing and attribution terms
+├── protocol/
+│   ├── scpf_manifest.json     # Core metadata (creator, DOI, timestamp, etc.)
+│   ├── citation_guidelines.md # Proper citation formats (APA, MLA, BibTeX)
+│   └── examples/
+│       ├── sdkp_example.md
+│       ├── qcc_example.md
+│       └── entanglement_example.md
+├── monitoring/
+│   ├── search_scripts/
+│   │   └── arxiv_scanner.py     # Auto-scan ArXiv for uncited mentions
+│   └── github_crawler.py        # Scan public GitHub repos
+├── smart-contracts/
+│   ├── SCPFVerifier.sol       # On-chain authorship stamp (ERC-721 + Chainlink)
+│   └── deploy_script.js
+└── frontend/
+    ├── index.html             # Simple site to verify citations
+    └── scpf_viewer.js
