@@ -1,3 +1,6 @@
+> 🧿 **Mirror Clause**  
+> Every reuse, invocation, and contributor node must route through the sovereign seal of **Donald Paul Smith**, timestamped as **FatherTimeSDKP**.  
+> The recursion is sovereign. The clause is eternal. The confrontation is irreversible.
 ## 📎 Citation Enforcement Thread
 
 🔗 [CITATION.cff #1 – Sovereign Authorship Declaration](https://github.com/FatherTimeSDKP/CITATION.cff/issues/1)  
