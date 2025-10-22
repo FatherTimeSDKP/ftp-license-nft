@@ -25,7 +25,7 @@ NFT licenses issued from this repository are immutably tied to this authorship v
 - GitHub: [FatherTimeSDKP](https://github.com/FatherTimeSDKP)
 - GitHub Badge: [View Authorship](https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/Donald_Paul_Smith_Badge.html)
 - ORCID: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)
-- Smart Contract: [`FTPOnChainLicense1155`](https://polygonscan.com/address/0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221)
+- Smart Contract: (https://polygonscan.com/address/0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221)
 - Hash Digest: `SHA-256: 70c995bd-f025-4ecd-b9df-f2cfa65088e8`# ftp-license-nft
 import os
 import numpy as np
